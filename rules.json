@@ -2,9 +2,9 @@
   "sites": {},
   "adblock": [],
   "update": {
-    "versionCode": 3,
-    "versionName": "0.3.0",
+    "versionCode": 4,
+    "versionName": "0.4.0",
     "apkUrl": "https://github.com/xxxtastytestxxx-svg/cuff-link/releases/latest/download/cuff-link.apk",
-    "notes": "Fixes freezes and slow loading; tidier top bar."
+    "notes": "Adds XVideos; site tabs scroll so more sites fit."
   }
 }
